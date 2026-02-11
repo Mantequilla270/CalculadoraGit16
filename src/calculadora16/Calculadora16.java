@@ -1,5 +1,7 @@
 package calculadora16;
-
+ /** @author Javier Ortiz
+ 	Esta clase sirve para hacer cálculos matemáticos mediante sus métodos.
+ */
 public class Calculadora16 {
 	public int sumar(int a, int b) {
 		return(a+b);
